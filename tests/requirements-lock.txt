@@ -1,0 +1,10 @@
+certifi==2023.5.7
+charset-normalizer==3.2.0
+colorama==0.4.6
+idna==3.4
+python-dotenv[cli]==1.0.0
+PyYAML>=6.0
+requests<=2.29.0
+robotframework==6.1
+robotframework-pythonlibcore==4.2.0
+urllib3==1.26.16
